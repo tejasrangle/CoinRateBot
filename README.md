@@ -3,6 +3,8 @@
 
 The Currency Conversion Chatbot is an intelligent virtual assistant designed to facilitate real-time currency conversion for users. Built using Dialogflow, this chatbot allows users to interact through natural language to get accurate and up-to-date currency conversion rates and perform currency conversions effortlessly.
 
+## Demo
+https://github.com/tejasrangle/CoinRateBot/assets/110970662/ad095be0-bb2b-41f0-a567-8c6b0d300201
 
 ## Chatbot Architecture
 
